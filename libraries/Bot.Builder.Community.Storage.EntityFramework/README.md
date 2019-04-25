@@ -1,4 +1,4 @@
-## Elasticsearch storage for Bot Builder v4 .NET SDK
+## EntityFrameworkCore storage for Bot Builder v4 .NET SDK
 
 ### Build status
 | Branch | Status | Recommended NuGet package version |
